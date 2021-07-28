@@ -1,4 +1,6 @@
-## Some things about me
+## My profile
+
+### Some things about me
 
 ```rust
 
